@@ -90,6 +90,9 @@ UB Ilmenau
 project finc (Cataloguing and Indexing software development at Leipzig University Library)
 [https://github.com/finc](https://github.com/finc)
 
+Munich Digitization Centre/Bavarian State Library
+[https://github.com/dbmdz](https://github.com/dbmdz)
+
 EntwicklerInnen / BibliothekarInnen
 -----------------------------------
 
@@ -209,6 +212,7 @@ Nils Witt (ZBW)
 
 Philipp Zumstein (UB Mannheim)
 [https://github.com/zuphilip](https://github.com/zuphilip)
+
 
 
 Sonstige
